@@ -49,3 +49,8 @@ transform: translate(-50%, -50%);
 .row{
 text-align:center;
 }
+
+.thumbnail{
+    border-style: none;
+
+}
